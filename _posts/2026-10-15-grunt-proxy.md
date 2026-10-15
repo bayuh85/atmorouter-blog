@@ -4,7 +4,7 @@ title: "grunt-proxy: a local proxy that trims your coding agent's prompts (and s
 date: 2026-10-15T17:25:31Z
 description: "A small OpenAI- and Anthropic-compatible proxy for Claude Code, Cursor, and Cline that compresses prompts, asks for terse replies, and prints token and dollar savings per request."
 canonical_url: https://dev.to/bayuh85/grunt-proxy-a-local-proxy-that-trims-your-coding-agents-prompts-and-shows-what-it-saved-40e2
-tags: [a, i, ,,  , p, r, o, d, u, c, t, i, v, i, t, y, ,,  , o, p, e, n, s, o, u, r, c, e, ,,  , t, y, p, e, s, c, r, i, p, t]
+tags: [ai, productivity, opensource, typescript]
 ---
 *Originally published on [dev.to](https://dev.to/bayuh85/grunt-proxy-a-local-proxy-that-trims-your-coding-agents-prompts-and-shows-what-it-saved-40e2).*
 
