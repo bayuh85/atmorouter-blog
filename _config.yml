@@ -1,0 +1,11 @@
+title: "AtmoRouter Dev Blog: cheap AI API gateway & OpenRouter alternative"
+description: "Open-source tools and tutorials for coding agents, built on AtmoRouter, a cheap AI API gateway and affordable OpenRouter alternative with OpenAI- and Anthropic-compatible APIs."
+url: "https://bayuh85.github.io"
+baseurl: "/atmorouter-blog"
+theme: minima
+plugins: [jekyll-seo-tag, jekyll-sitemap, jekyll-feed]
+author: bayuh85
+header_pages: [about.md]
+minima:
+  social_links:
+    github: bayuh85
