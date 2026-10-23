@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "graphloom: give your coding agent a map of the repo instead of letting it grep 40 files"
-date: 2026-10-23T02:40:00Z
+date: 2026-10-23T02:30:00Z
 description: "An open-source Python CLI and MCP server that turns a repository (code, SQL, docs, config) into a queryable knowledge graph with file:line evidence on every edge. The graph is built offline; only questions go to a cheap model through AtmoRouter."
 canonical_url: https://dev.to/bayuh85/graphloom-give-your-coding-agent-a-map-of-the-repo-instead-of-letting-it-grep-40-files-ai5
 tags: [ai, python, opensource, productivity]
