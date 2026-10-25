@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "tastelint: a linter that fails the build when your coding agent ships the purple-gradient landing page again"
-date: 2026-10-25T02:30:00Z
+date: 2026-10-25T02:00:00Z
 description: "An open-source, offline taste linter for AI-generated UI. 17 deterministic rules for HTML, CSS, JSX/TSX, Vue, Svelte and Tailwind, a 0-100 taste score, a CI gate, and an optional review step through a cheap AI API gateway."
 canonical_url: https://dev.to/bayuh85/tastelint-a-linter-that-fails-the-build-when-your-coding-agent-ships-the-purple-gradient-landing-3p5c
 tags: [ai, webdev, opensource, css]
