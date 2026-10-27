@@ -8,6 +8,8 @@ tags: [openrouter-alternative, ai-gateway, llm, comparison]
 
 OpenRouter is the default answer for "one API key, every model." It isn't the only one, though, and depending on whether you care most about **price, governance or self-hosting**, a different tool may suit you better. This roundup compares four **OpenRouter alternatives** against OpenRouter itself. Every claim about a competitor comes from that company's own website or docs, checked Oct 27, 2026.
 
+*Prices checked Oct 27, 2026.* Fees and plan prices are as listed on each vendor's site that day. AtmoRouter token prices are a live snapshot taken at 20:52 WIB (13:52 UTC).
+
 ## Quick comparison
 
 | | Type | How you pay for tokens | Gateway fee | Free tier | OpenAI API | Anthropic API |
