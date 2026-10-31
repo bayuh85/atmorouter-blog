@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "StudyLoop: turn your markdown notes into flashcards that can't lie to you"
-date: 2026-10-31T05:00:00Z
+date: 2026-10-31T04:30:00Z
 description: "An open-source terminal tutor: an LLM drafts flashcards from your notes, unsupported cards are rejected, review with SM-2, ask offline with BM25 line citations. Runs on AtmoRouter."
 canonical_url: https://dev.to/bayuh85/studyloop-turn-your-markdown-notes-into-flashcards-that-cant-lie-to-you-280j
 tags: [python, opensource, productivity, ai]
